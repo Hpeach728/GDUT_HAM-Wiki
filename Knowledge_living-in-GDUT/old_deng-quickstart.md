@@ -138,4 +138,4 @@ Outlook插件 https://github.com/BI7KHI/GDUT_Schedule_Management_Plug-in_Outlook
 Q：被困在实验楼了/不知道实验楼的入口在哪
 A：实验楼需要从二楼进出，一楼的门需要门禁，在里面可以按门右手侧的按钮出去
 
-Q：
+Q：北朝了怎么办
